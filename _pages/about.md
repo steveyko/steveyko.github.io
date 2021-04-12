@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Associate Professor, [School of Computing Science, Simon Fraser
+University](https://https://www.sfu.ca/computing.html).
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>9971 Applied Sciences Building</p>
+    <p>Simon Fraser University</p>
+    <p>Burnaby BC, Canada, V5A 1S6</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
