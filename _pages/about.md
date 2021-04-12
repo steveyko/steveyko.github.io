@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-Associate Professor <a href="https://www.sfu.ca/computing.html">School of Computing Science, Simon
+Associate Professor, <a href="https://www.sfu.ca/computing.html">School of Computing Science, Simon
 Fraser University</a>
 
 profile:
