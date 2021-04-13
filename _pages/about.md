@@ -28,13 +28,12 @@ University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Scienc
 Engineering](https://cse.snu.ac.kr/en) from [Seoul National
 University](https://en.snu.ac.kr/index.html), and a PhD in [Computer
 Science](https://cs.illinois.edu) from [University of Illinois at
-Urbana-Champaign](https://illinois.edu).
+Urbana-Champaign](https://illinois.edu). I worked as a postdoc in the [Department of Computer
+Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
 I am currently on leave from the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
-Before joining UB, I worked as a postdoc in the [Department of Computer
-Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
 ## Honors
 
