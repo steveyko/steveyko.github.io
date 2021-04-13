@@ -15,7 +15,7 @@ profile:
   #  <p>Simon Fraser University</p>
   #  <p>Burnaby BC, Canada, V5A 1S6</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -28,7 +28,7 @@ University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Scienc
 Engineering](https://cse.snu.ac.kr/en) from [Seoul National
 University](https://en.snu.ac.kr/index.html), and a PhD in [Computer
 Science](https://cs.illinois.edu) from [University of Illinois at
-Urbana-Champaign](https://illinois.edu). 
+Urbana-Champaign](https://illinois.edu).
 
 He is currently on leave from the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
