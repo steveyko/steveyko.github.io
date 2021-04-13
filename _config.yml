@@ -145,12 +145,14 @@ scholar:
   last_name: Ko
   first_name: [Steven, Y.]
 
-  style: apa
+  style: modern-language-association
   locale: en
 
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
+
+  group_by: type, year
 
   replace_strings: true
   join_strings: true
