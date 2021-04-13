@@ -9,10 +9,10 @@ description: >
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>9971 Applied Sciences Building</p>
-    <p>Simon Fraser University</p>
-    <p>Burnaby BC, Canada, V5A 1S6</p>
+  #address: >
+  #  <p>9971 Applied Sciences Building</p>
+  #  <p>Simon Fraser University</p>
+  #  <p>Burnaby BC, Canada, V5A 1S6</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
