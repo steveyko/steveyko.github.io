@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: >
     Associate Professor & Dean's Excellence Fellow, <a
