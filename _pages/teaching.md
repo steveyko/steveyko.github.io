@@ -6,12 +6,12 @@ description: Links to the courses I've been teaching at UB and SFU.
 nav: true
 ---
 
-# Simon Fraser University
+### Simon Fraser University
 
 CMPT 473 Software Testing, Reliability, and Security ([Spring
 2021](https://canvas.sfu.ca/courses/60354))
 
-# University at Buffalo
+### University at Buffalo
 
 CSE 486/586 Distributed Systems ([Spring
 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
