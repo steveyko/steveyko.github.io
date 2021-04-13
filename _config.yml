@@ -152,12 +152,12 @@ scholar:
   bibliography: papers.bib
   bibliography_template: bib
 
-  group_by: type, year
-  sort_by: year
-  order: descending
+  # group_by: type, year
+  #sort_by: year
+  #order: descending
 
-  type_order: { inproceedings, article }
-  type_names: { article: Journals, inproceedings: Conferences and Workshops }
+  #type_order: { inproceedings, article }
+  #type_names: { article: Journals, inproceedings: Conferences and Workshops }
 
   replace_strings: true
   join_strings: true
