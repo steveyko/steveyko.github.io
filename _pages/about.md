@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-description: Associate Professor, <a href="https://www.sfu.ca/computing.html">School of Computing Science, Simon Fraser University</a>
+description: >
+    Associate Professor, <a href="https://www.sfu.ca/computing.html">School of Computing Science,
+    Simon Fraser University</a>
 
 profile:
   align: right
