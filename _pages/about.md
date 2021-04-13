@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: >
     Associate Professor & Dean's Excellence Fellow, <a
@@ -34,7 +34,7 @@ He is currently on leave from the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
 
-## honors
+## Honors
 
 * Best Paper Award for "FLUID: Flexible User Interface Distribution for Ubiquitous Multi-device
   Interaction," ACM MobiCom, 2019
