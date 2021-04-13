@@ -20,17 +20,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Steven Y. Ko generally works in the area of systems. His current research interest lies at the
+I generally work in the area of systems. My current research interest lies at the
 intersection of systems, programming languages, and software engineering.
 
-He received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
+I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
 University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Science and
 Engineering](https://cse.snu.ac.kr/en) from [Seoul National
 University](https://en.snu.ac.kr/index.html), and a PhD in [Computer
 Science](https://cs.illinois.edu) from [University of Illinois at
 Urbana-Champaign](https://illinois.edu).
 
-He is currently on leave from the [Department of Computer Science and
+I am currently on leave from the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
 
