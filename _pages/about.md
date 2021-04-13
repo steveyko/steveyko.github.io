@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-    Associate Professor & Dean's Excellence Fellow <a
+    Associate Professor & Dean's Excellence Fellow, <a
     href="https://www.sfu.ca/computing.html">School of Computing Science, Simon Fraser
     University</a>
 
@@ -20,19 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Steven Y. Ko is an Associate Professor and a Dean's Excellence Fellow in the [School of Computing
-Science](https://www.sfu.ca/computing.html) at [Simon Fraser University](https://www.sfu.ca). His
-research interests are mainly in systems, but especially at the intersection of systems, programming
-languages, and software engineering. He received a B.S. degree in
+Steven Y. Ko generally works in the area of systems. His current interest is at the intersection of
+systems, programming languages, and software engineering. He received a B.S. degree in
 [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
 University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Science and
 Engineering](https://cse.snu.ac.kr/en) from [Seoul National
 University](https://en.snu.ac.kr/index.html), and a PhD in [Computer
 Science](https://cs.illinois.edu) from [University of Illinois at
 Urbana-Champaign](https://illinois.edu).  
-
-#Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-#
-#Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-#
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
