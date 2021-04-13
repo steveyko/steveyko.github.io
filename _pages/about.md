@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-    Associate Professor & Dean's Excellence Fellow, <a
+    <b>Associate Professor</b> & <b>Dean's Excellence Fellow</b>, <a
     href="https://www.sfu.ca/computing.html">School of Computing Science</a>, <a
     href="https://www.sfu.ca/">Simon Fraser University</a>
 
