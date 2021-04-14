@@ -9,10 +9,13 @@ nav: true
 <div class="publications">
 
 <h2 class="year">Simon Fraser University</h2>
+<div class="col-sm-6">
 CMPT 473 Software Testing, Reliability, and Security ([Spring
 2021](https://canvas.sfu.ca/courses/60354))
+</div>
 
 <h2 class="year">University at Buffalo</h2>
+<div class="col-sm-6">
 CSE 486/586 Distributed Systems ([Spring
 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
 2013](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring13/), [Spring
@@ -40,5 +43,6 @@ CSE 490/590 Computer Architecture ([Spring
 
 CSE 704 Seminar on Data Center Computing ([Fall
 2010](http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10))
+</div>
 
 </div>
