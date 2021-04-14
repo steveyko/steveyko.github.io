@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: teaching
 description: Links to the courses I've been teaching at UB and SFU.
 nav: true
 ---
