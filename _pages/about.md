@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-    <h5>Associate Professor & Dean's Excellence Fellow<br><a
+    <h5>Associate Professor<br>Dean's Excellence Fellow<br><a
     href="https://www.sfu.ca/computing.html">School of Computing Science</a>, <a
     href="https://www.sfu.ca/">Simon Fraser University</a></h5>
 
@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I generally work in the area of systems. My current research interest lies at the
-intersection of systems, programming languages, and software engineering.
+intersection of mobile systems, programming languages, and software engineering.
 
 I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
 University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Science and
