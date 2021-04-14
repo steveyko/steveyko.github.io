@@ -7,16 +7,17 @@ nav: true
 ---
 
 <div class="publications">
-
-<h2 class="year">Simon Fraser University</h2>
-<div class="col-sm-6">
-CMPT 473 Software Testing, Reliability, and Security
-(<a href="https://canvas.sfu.ca/courses/60354">Spring 2021</a>)
-</div>
-
-<h2 class="year">University at Buffalo</h2>
-<div class="col-sm-6">
-CSE 486/586 Distributed Systems ([Spring
+  <h2 class="year">Simon Fraser University</h2>
+  <div class="col-sm-6">
+    <br>
+    CMPT 473 Software Testing, Reliability, and Security
+    (<a href="https://canvas.sfu.ca/courses/60354">Spring 2021</a>)
+  </div>
+  
+  <h2 class="year">University at Buffalo</h2>
+  <div class="col-sm-6">
+  <br>
+  CSE 486/586 Distributed Systems ([Spring
 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
 2013](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring13/), [Spring
 2014](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring14/), [Spring
@@ -25,24 +26,20 @@ CSE 486/586 Distributed Systems ([Spring
 2017](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring17/), [Spring
 2019](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring19/), [Spring
 2020](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring20/))
-
-CSE 622 Advanced Computer Systems (Fall 2011, Fall 2012, [Fall
-2013](https://piazza.com/buffalo/fall2013/cse622/home), [Fall
-2014](https://piazza.com/buffalo/fall2014/cse622/home), [Fall
-2015](https://piazza.com/buffalo/fall2015/cse622/home), [Fall
-2016](https://piazza.com/buffalo/fall2016/cse622/home), Fall 2017, Fall 2018)
-
-CSE 199 UB Seminar: Internet, Computing, and Society ([Fall
-2020](https://ublearns.blackboard.com/ultra/courses/_173524_1/cl/outline))
-
-CSE 199 UB Seminar: How the Internet Works (Fall 2017, Fall 2018, [Fall
-2019](http://www.cse.buffalo.edu/cse199))
-
-CSE 490/590 Computer Architecture ([Spring
-2011](http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11))
-
-CSE 704 Seminar on Data Center Computing ([Fall
-2010](http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10))
+  
+  CSE 622 Advanced Computer Systems (Fall 2011, Fall 2012, [Fall
+  2013](https://piazza.com/buffalo/fall2013/cse622/home), [Fall
+  2014](https://piazza.com/buffalo/fall2014/cse622/home), [Fall
+  2015](https://piazza.com/buffalo/fall2015/cse622/home), [Fall
+  2016](https://piazza.com/buffalo/fall2016/cse622/home), Fall 2017, Fall 2018)
+  
+  CSE 199 UB Seminar: Internet, Computing, and Society (<a href="https://ublearns.blackboard.com/ultra/courses/_173524_1/cl/outline">Fall 2020</a>)
+  
+  CSE 199 UB Seminar: How the Internet Works (Fall 2017, Fall 2018, <a href="http://www.cse.buffalo.edu/cse199">Fall 2019</a>)
+  
+  CSE 490/590 Computer Architecture (<a href="http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11">Spring 2011</a>)
+  
+  CSE 704 Seminar on Data Center Computing (<a href="http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10">Fall 2010</a>)
 </div>
 
 </div>
