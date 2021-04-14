@@ -10,8 +10,8 @@ nav: true
 
 <h2 class="year">Simon Fraser University</h2>
 <div class="col-sm-6">
-CMPT 473 Software Testing, Reliability, and Security ([Spring
-2021](https://canvas.sfu.ca/courses/60354))
+CMPT 473 Software Testing, Reliability, and Security
+(<a href="https://canvas.sfu.ca/courses/60354">Spring 2021</a>)
 </div>
 
 <h2 class="year">University at Buffalo</h2>
