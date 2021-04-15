@@ -10,7 +10,7 @@ nav: true
 
 <h2>Simon Fraser University</h2>
 
-<section markdown="1" class="col-sm-6">
+<section markdown="1">
 
 * CMPT 473 Software Testing, Reliability, and Security ([Spring
 2021](https://canvas.sfu.ca/courses/60354))
@@ -19,7 +19,7 @@ nav: true
 
 <h2>University at Buffalo</h2>
 
-<section markdown="1" class="col-sm-6">
+<section markdown="1">
 
 * CSE 486/586 Distributed Systems ([Spring
 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
