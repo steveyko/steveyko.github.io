@@ -54,7 +54,7 @@ with Karthik Dantu.
 * Varun Anand Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
 Dimitrios Koutsonikolas.
 
-#### Visitors
+##### Visitors
 * Donghwi Kim: Visiting PhD student from KAIST. Advised by Sung-Ju Lee.
 
 ## Honors
