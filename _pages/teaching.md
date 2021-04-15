@@ -10,7 +10,7 @@ nav: true
 
 <h2>Simon Fraser University</h2>
 
-<section markdown="1" class="col-sm-8">
+<section markdown="1">
 
 * CMPT 473 Software Testing, Reliability, and Security  
   [Spring 2021](https://canvas.sfu.ca/courses/60354)
@@ -19,9 +19,9 @@ nav: true
 
 <h2>University at Buffalo</h2>
 
-<section markdown="1" class="col-sm-8">
+<section markdown="1">
 
-* CSE 486/586 Distributed Systems  
+* _CSE 486/586 Distributed Systems_  
   [Spring 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
 2013](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring13/), [Spring
 2014](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring14/), [Spring
@@ -31,22 +31,22 @@ nav: true
 2019](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring19/), [Spring
 2020](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring20/)
   
-* CSE 622 Advanced Computer Systems  
+* _CSE 622 Advanced Computer Systems_  
   Fall 2011, Fall 2012, [Fall 2013](https://piazza.com/buffalo/fall2013/cse622/home), [Fall
 2014](https://piazza.com/buffalo/fall2014/cse622/home), [Fall
 2015](https://piazza.com/buffalo/fall2015/cse622/home), [Fall
 2016](https://piazza.com/buffalo/fall2016/cse622/home), Fall 2017, Fall 2018
   
-* CSE 199 UB Seminar: Internet, Computing, and Society  
+* _CSE 199 UB Seminar: Internet, Computing, and Society_  
   [Fall 2020](https://ublearns.blackboard.com/ultra/courses/_173524_1/cl/outline)
 
-* CSE 199 UB Seminar: How the Internet Works  
+* _CSE 199 UB Seminar: How the Internet Works_  
   Fall 2017, Fall 2018, [Fall 2019](http://www.cse.buffalo.edu/cse199)
   
-* CSE 490/590 Computer Architecture  
+* _CSE 490/590 Computer Architecture_  
   [Spring 2011](http://www.cse.buffalo.edu/~stevko/courses/cse490/spring11)
   
-* CSE 704 Seminar on Data Center Computing  
+* _CSE 704 Seminar on Data Center Computing_  
   [Fall 2010](http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10)
 
 </section>

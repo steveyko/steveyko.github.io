@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-    <h6>Associate Professor & Dean's Excellence Fellow<br><a
+    <b>Associate Professor & Dean's Excellence Fellow<br><a
     href="https://www.sfu.ca/computing.html">School of Computing Science</a>, <a
-    href="https://www.sfu.ca/">Simon Fraser University</a></h6>
+    href="https://www.sfu.ca/">Simon Fraser University</a></b>
 
 profile:
   align: right
@@ -39,7 +39,7 @@ at Buffalo, The State University of New York](https://www.buffalo.edu) as an Ass
 
 I have been fortunate to work with the following wonderful students.
 
-###### PhD Students
+_PhD Students_
 
 * [Chang Min Park](http://beyondthegeek.com/): Current student. Co-advised with Karthik Dantu.
 * Sharath Chandrashekhara: Graduated in 2018. Currently at Samsung Research America. Co-advised
@@ -49,14 +49,14 @@ with Karthik Dantu.
 * Yin Yan: Graduated in 2018. Currently at Chase Bank. Co-advised with Lukasz Ziarek.
 * Kyungho Jeon: Graduate in 2017. Currently at Samsung Research Korea.
 
-###### MS Students
+_MS Students_
 
 * Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 * Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
 * Varun Anand Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
 Dimitrios Koutsonikolas.
 
-###### Visitors
+_Visitors_
 
 * Donghwi Kim: Visiting PhD student from KAIST. Advised by Sung-Ju Lee.
 
