@@ -1,17 +1,19 @@
 ---
-layout: page
+layout: teaching
 permalink: /teaching/
 title: teaching
 description: Links to the courses I've been teaching at UB and SFU.
 nav: true
 ---
 
-### Simon Fraser University
+<div class="teaching">
+
+<h2>Simon Fraser University</h2>
 
 CMPT 473 Software Testing, Reliability, and Security ([Spring
 2021](https://canvas.sfu.ca/courses/60354))
 
-### University at Buffalo
+<h2>University at Buffalo</h2>
 
 CSE 486/586 Distributed Systems ([Spring
 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
@@ -40,3 +42,5 @@ CSE 490/590 Computer Architecture ([Spring
   
 CSE 704 Seminar on Data Center Computing ([Fall
 2010](http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10))
+
+</div>
