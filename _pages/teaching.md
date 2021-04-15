@@ -12,7 +12,7 @@ nav: true
 
 <ol class="courses">
 
-<section markdown="1">
+<section markdown="1" class="col-sm-5">
 
 * CMPT 473 Software Testing, Reliability, and Security ([Spring
 2021](https://canvas.sfu.ca/courses/60354))
