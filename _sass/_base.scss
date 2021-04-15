@@ -372,6 +372,15 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
+  ol.courses {
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+
+    li {
+      margin-bottom: 1rem;
+    }
+  }
 }
 
 // Publications
