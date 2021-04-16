@@ -6,20 +6,14 @@ description: Links to the courses I've been teaching at UB and SFU.
 nav: true
 ---
 
-<div class="teaching">
+<div class="teaching" markdown="1">
 
-<h2>Simon Fraser University</h2>
-
-<section markdown="1">
+## Simon Fraser University
 
 * **CMPT 473 Software Testing, Reliability, and Security**  
   [Spring 2021](https://canvas.sfu.ca/courses/60354)
 
-</section>
-
-<h2>University at Buffalo</h2>
-
-<section markdown="1">
+## University at Buffalo
 
 * **CSE 486/586 Distributed Systems**  
   [Spring 2012](http://www.cse.buffalo.edu/~stevko/courses/cse486/spring12/), [Spring
@@ -48,7 +42,5 @@ nav: true
   
 * **CSE 704 Seminar on Data Center Computing**  
   [Fall 2010](http://www.cse.buffalo.edu/~stevko/courses/cse704/fall10)
-
-</section>
 
 </div>
