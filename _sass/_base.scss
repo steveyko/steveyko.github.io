@@ -8,6 +8,10 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
+strong {
+  font-weight: bolder;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -485,13 +489,10 @@ footer.sticky-bottom {
     margin-bottom: -2rem;
     text-align: right;
   }
-  strong {
-    font-weight: bolder;
-  }
   ul {
     list-style: none;
     padding: 0;
-    margin-top: 2rem;
+    margin-top: 3rem;
 
     li {
       margin-bottom: 1rem;
