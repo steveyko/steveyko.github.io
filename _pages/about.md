@@ -53,7 +53,7 @@ with Karthik Dantu.
 
 * Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 * Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
-* Varun Anand Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
+* Varun Anand: Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
 Dimitrios Koutsonikolas.
 
 **Visitors**
