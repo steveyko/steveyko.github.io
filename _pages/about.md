@@ -35,6 +35,9 @@ I am currently on leave from the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
 
+**I am looking for new undergraduate, Master's, and PhD students as well as postdocs. If you are
+interested, please email me.**
+
 ## Students
 
 I have been fortunate to work with the following wonderful students.
