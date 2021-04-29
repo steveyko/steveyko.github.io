@@ -36,7 +36,7 @@ Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) 
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
 
 **I am looking for new undergraduate, Master's, and PhD students as well as postdocs. If you are
-interested, please email me.**
+interested, please email me. You can find my email address at the bottom of this page.**
 
 ## Students
 
