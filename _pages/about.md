@@ -21,8 +21,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I generally work in the area of systems. My current research interest lies at the
-intersection of mobile systems, programming languages, and software engineering.
+I generally work in the area of systems. My research currently focuses on improving the reliability
+and security of mobile systems software by developing techniques at the intersection of mobile
+systems, programming languages, and software engineering.
 
 I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
 University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Science and
