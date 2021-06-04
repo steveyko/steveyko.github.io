@@ -3,7 +3,7 @@ layout: page
 permalink: /videos/
 title: videos
 description: Videos that highlight some of my projects
-nav: true
+nav: false
 ---
 <div class="grid">
   <div class="grid-item">
