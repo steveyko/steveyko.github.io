@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /videos/
 title: videos
 description: Videos that highlight some of my projects
