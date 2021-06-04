@@ -1,7 +1,9 @@
 ---
 layout: default
-title: videos
 permalink: /videos/
+title: videos
+description: Videos that highlight some of my projects
+nav: true
 ---
 <div class="container">
   <div class="row">
