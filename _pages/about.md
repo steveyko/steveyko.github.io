@@ -33,7 +33,7 @@ Science](https://cs.illinois.edu) from [University of Illinois at
 Urbana-Champaign](https://illinois.edu). I worked as a postdoc in the [Department of Computer
 Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
-I am currently on leave from the [Department of Computer Science and
+Previously, I was with the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
 at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
 
