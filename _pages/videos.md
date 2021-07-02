@@ -2,7 +2,7 @@
 layout: page
 title: videos
 permalink: /videos/
-description: Research videos for some of my projects
+description: Videos for some of my projects
 nav: false
 horizontal: false
 ---
