@@ -299,10 +299,6 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
-  .grid {
-    justify-content: space-evenly;
-  }
-
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -507,6 +503,10 @@ footer.sticky-bottom {
 // Videos
 
 .videos {
+  .grid {
+    justify-content: space-evenly;
+  }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
