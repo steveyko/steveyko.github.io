@@ -509,7 +509,7 @@ footer.sticky-bottom {
     align-content: space-around;
   }
 
-  .col {
+  .col-sm {
     margin-bottom: 10px;
 
     .card {
@@ -517,34 +517,6 @@ footer.sticky-bottom {
         color: var(--global-text-color);
       }
     }
-  }
-
-  .grid-item {
-    margin-bottom: 10px;
-
-    a {
-      color: black;
-      text-decoration: none;
-
-      &:hover {
-        color: var(--global-theme-color);
-      }
-    }
-
-    .card {
-      .card-title {
-        color: var(--global-text-color);
-      }
-    }
-  }
-
-  h2.category {
-    color: $grey-color-light;
-    border-bottom: 1px solid $grey-color-light;
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
   }
 }
 
