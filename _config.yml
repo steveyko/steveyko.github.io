@@ -90,6 +90,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  videos:
+    output: true
+    permalink: /videos/:path/
 
 news_limit: 5
 
