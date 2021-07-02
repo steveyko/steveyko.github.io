@@ -512,16 +512,29 @@ footer.sticky-bottom {
   .col {
     margin-bottom: 20px;
 
-    a {
-      color: var(--global-theme-color);
-      text-decoration: none;
-
-      &:hover {
-        color: var(--global-theme-color);
-      }
-    }
-
     .card {
+      .card-title {
+        a {
+          color: var(--global-text-color);
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .card-text {
+        a {
+          color: var(--global-theme-color);
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+
       .github-icon {
         a {
           color: black;

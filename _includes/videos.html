@@ -4,9 +4,7 @@
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.youtube }}" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="card-body">
-      <a href="https://youtu.be/{{ video.youtube }}">
-        <h2 class="card-title">{{ video.title }}</h2>
-      </a>
+      <h2 class="card-title"><a href="https://youtu.be/{{ video.youtube }}">{{ video.title }}</a></h2>
       <p class="card-text">{{ video.description }}</p>
       <div class="row ml-1 mr-1 p-0">
         {% if video.github %}
