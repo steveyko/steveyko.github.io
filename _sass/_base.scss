@@ -503,29 +503,10 @@ footer.sticky-bottom {
 // Videos
 
 .videos {
-  .grid {
-    justify-content: space-evenly;
-  }
-
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    a {
-      text-decoration: none;
-    }
-
-    .row {
-      display: flex;
-      align-items: center;
-    }
-
-    .card {
-      iframe {
-        width: 100%;
-        height: 100%;
-      }
-    }
+  .container {
+    display: flex;
+    justify-content: space-around safe;
+    align-content: space-around safe;
   }
 
   .grid-item {
