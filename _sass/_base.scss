@@ -503,14 +503,13 @@ footer.sticky-bottom {
 // Videos
 
 .videos {
-  .container {
+  .grid {
     display: flex;
-    justify-content: space-around safe;
-    align-content: space-around safe;
+    justify-content: space-around;
+    align-content: space-around;
   }
 
   .grid-item {
-    width: 336px;
     margin-bottom: 10px;
 
     a {
@@ -523,10 +522,6 @@ footer.sticky-bottom {
     }
 
     .card {
-      iframe {
-        width: 336px;
-        height: 189px;
-      }
       .card-title {
         color: var(--global-text-color);
       }
