@@ -1,27 +1,27 @@
 ---
 layout: page
-permalink: /videos/
 title: videos
-description: Videos that highlight some of my projects
+permalink: /videos/
+description: Research videos for some of my projects
 nav: false
+horizontal: false
 ---
-<div class="grid">
-  <div class="grid-item">
-    <div class="card hoverable">
-    <iframe src="https://www.youtube.com/embed/bjmH8DbJuRE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <div class="card-body">
-        <h2 class="card-title text-lowercase">Title Test</h2>
-        <p class="card-text">Description test</p>
+<div class="projects">
+    {% assign sorted_videos = site.videos | reverse %}
+    <!-- Generate cards for each video -->
+    {% if page.horizontal %}
+      <div class="container">
+        <div class="row row-cols-2">
+        {% for video in sorted_videos %}
+          {% include videos_hrz.html %}
+        {% endfor %}
+        </div>
       </div>
-    </div>
-  </div>
-  <div class="grid-item">
-    <iframe src="https://www.youtube.com/embed/uyoOW6Pmunw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="grid-item">
-      <iframe src="https://www.youtube.com/embed/pOg4JJVLMIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="grid-item">
-      <iframe src="https://www.youtube.com/embed/ZKiU0_cSOts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
+    {% else %}
+      <div class="grid">
+        {% for video in sorted_videos %}
+          {% include videos.html %}
+        {% endfor %}
+      </div>
+    {% endif %}
 </div>
