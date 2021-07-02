@@ -520,11 +520,22 @@ footer.sticky-bottom {
         color: var(--global-theme-color);
       }
     }
-    //.card {
+
+    .card {
+      .github-icom {
+        a {
+          color: black;
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
     //  .card-title {
     //    color: var(--global-theme-color);
     //  }
-    //}
+    }
   }
 }
 
