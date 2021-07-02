@@ -2,11 +2,11 @@
 layout: page
 title: videos
 permalink: /videos/
-description: Videos for some of my projects
+description: Research project videos
 nav: false
 ---
 <div class="videos">
-    {% assign sorted_videos = site.videos | reverse %}
+    {% assign sorted_videos = site.videos | sort: "order" | reverse %}
     <!-- Generate cards for each video -->
     <div class="container">
       <div class="row row-cols-1 row-cols-sm-2">
