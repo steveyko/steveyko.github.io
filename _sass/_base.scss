@@ -547,13 +547,16 @@ footer.sticky-bottom {
       }
 
       .paper {
-        .btn-sml { height: 4vh; }
-        a {
+        a.btn {
           color: var(--global-text-color);
-          text-decoration: none;
-
+          border: 1px solid var(--global-text-color);
+          padding-left: 0rem;
+          padding-right: 0rem;
+          padding-top: 0rem;
+          padding-bottom: 0rem;
           &:hover {
             color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
           }
         }
       }
