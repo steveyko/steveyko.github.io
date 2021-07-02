@@ -537,7 +537,18 @@ footer.sticky-bottom {
 
       .github-icon {
         a {
-          color: black;
+          color: var(--global-text-color);
+          text-decoration: none;
+
+          &:hover {
+            color: var(--global-theme-color);
+          }
+        }
+      }
+
+      .paper {
+        a {
+          color: var(--global-text-color);
           text-decoration: none;
 
           &:hover {

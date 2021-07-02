@@ -20,6 +20,11 @@
           {% endif %}
         </div>
         {% endif %}
+        {% if video.paper %}
+        <div class="paper">
+          <a href="{{ video.paper | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+        </div>
+        {% endif %}
       </div>
     </div>
   </div>
