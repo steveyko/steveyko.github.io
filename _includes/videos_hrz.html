@@ -1,5 +1,4 @@
 <div class="card-item col">
-  <a href="https://youtu.be/{{ video.id }}">
     <div class="card hoverable">
       <div class="row g-0">
         <div class="card-img col-md-6">
@@ -7,8 +6,10 @@
         </div>
         <div class="col-md-6">
           <div class="card-body">
-            <h3 class="card-title text-lowercase">{{ video.title }}</h3>
-            <p class="card-text">{{ video.description }}</p>
+            <a href="https://youtu.be/{{ video.id }}">
+              <h3 class="card-title text-lowercase">{{ video.title }}</h3>
+              <p class="card-text">{{ video.description }}</p>
+            </a>
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
               <div class="github-icon">
@@ -28,5 +29,4 @@
         </div>
       </div>
     </div>
-  </a>
 </div>
