@@ -525,7 +525,7 @@ footer.sticky-bottom {
   }
 
   .grid-item {
-    width: 336px;
+    width: auto;
     margin-bottom: 10px;
 
     a {
@@ -539,8 +539,7 @@ footer.sticky-bottom {
 
     .card {
       iframe {
-        width: 336px;
-        height: 189px;
+        width: 100%;
       }
       .card-title {
         color: var(--global-text-color);
