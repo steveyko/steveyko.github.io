@@ -1,13 +1,13 @@
 <div class="col">
   <div class="card hoverable">
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.youtube }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ video.youtube }}" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
-    <a href="https://youtu.be/{{ video.youtube }}">
-      <div class="card-body">
+    <div class="card-body">
+      <a href="https://youtu.be/{{ video.youtube }}">
         <h2 class="card-title text-lowercase">{{ video.title }}</h2>
-        <p class="card-text">{{ video.description }}</p>
-      </div>
-    </a>
+      </a>
+      <p class="card-text">{{ video.description }}</p>
+    </div>
   </div>
 </div>
