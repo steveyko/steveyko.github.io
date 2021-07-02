@@ -8,7 +8,7 @@ nav: false
 <div class="videos">
     {% assign sorted_videos = site.videos | reverse %}
     <!-- Generate cards for each video -->
-    <div class="grid row-cols-2">
+    <div class="grid">
       {% for video in sorted_videos %}
         {% include videos.html %}
       {% endfor %}

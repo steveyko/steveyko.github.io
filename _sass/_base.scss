@@ -299,6 +299,10 @@ footer.sticky-bottom {
 // Projects
 
 .projects {
+  .grid {
+    justify-content: space-evenly;
+  }
+
   .card-item {
     width: auto;
     margin-bottom: 10px;
@@ -525,7 +529,7 @@ footer.sticky-bottom {
   }
 
   .grid-item {
-    width: auto;
+    width: 336px;
     margin-bottom: 10px;
 
     a {
@@ -537,13 +541,10 @@ footer.sticky-bottom {
       }
     }
 
-    .row {
-      align-items: center;
-    }
-
     .card {
       iframe {
-        width: 100%;
+        width: 336px;
+        height: 189px;
       }
       .card-title {
         color: var(--global-text-color);
