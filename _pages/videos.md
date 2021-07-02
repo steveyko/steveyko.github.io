@@ -3,7 +3,7 @@ layout: page
 title: videos
 permalink: /videos/
 description: Research-related videos
-nav: false
+nav: true
 ---
 <div class="videos">
     {% assign sorted_videos = site.videos | sort: "order" | reverse %}
