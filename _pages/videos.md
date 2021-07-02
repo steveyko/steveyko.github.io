@@ -4,7 +4,7 @@ title: videos
 permalink: /videos/
 description: Videos for some of my projects
 nav: false
-horizontal: false
+horizontal: true
 ---
 <div class="projects">
     {% assign sorted_videos = site.videos | reverse %}
