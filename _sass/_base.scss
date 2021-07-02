@@ -502,8 +502,58 @@ footer.sticky-bottom {
 
 // Videos
 
-iframe {
-    display: block;
+.videos {
+  .card-item {
+    width: auto;
+    margin-bottom: 10px;
+
+    a {
+      text-decoration: none;
+    }
+
+    .row {
+      display: flex;
+      align-items: center;
+    }
+
+    .card {
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .grid-item {
+    width: 300px;
+    margin-bottom: 10px;
+
+    a {
+      color: black;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+
+    .card {
+      iframe {
+        width: 100%;
+      }
+      .card-title {
+        color: $black-color;
+      }
+    }
+  }
+
+  h2.category {
+    color: $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-align: right;
+  }
 }
 
 // Rouge Color Customization

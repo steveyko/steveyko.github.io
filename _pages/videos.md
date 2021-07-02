@@ -5,7 +5,7 @@ permalink: /videos/
 description: Videos for some of my projects
 nav: false
 ---
-<div class="projects">
+<div class="videos">
     {% assign sorted_videos = site.videos | reverse %}
     <!-- Generate cards for each video -->
     <div class="grid">
