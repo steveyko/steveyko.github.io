@@ -515,7 +515,7 @@ footer.sticky-bottom {
     .card {
       .card-title {
         a {
-          color: var(--global-text-color);
+          color: $black-color;
           text-decoration: none;
 
           &:hover {
