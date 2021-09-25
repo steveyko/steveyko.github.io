@@ -10,8 +10,8 @@ email: steveyko@sfu.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Steven Y. Ko
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by <a href="http://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/">GitHub Pages</a>.
 
 icon: # 🔥 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
