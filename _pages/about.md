@@ -10,7 +10,7 @@ logo: sfu_logo.png
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.webp
   #address: >
   #  <p>9971 Applied Sciences Building</p>
   #  <p>Simon Fraser University</p>
