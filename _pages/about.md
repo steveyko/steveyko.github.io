@@ -35,7 +35,8 @@ Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.pr
 
 Until 2020, I was with the [Department of Computer Science and
 Engineering](https://engineering.buffalo.edu/computer-science-engineering.html) at the [University
-at Buffalo, The State University of New York](https://www.buffalo.edu) as an Associate Professor.
+at Buffalo, The State University of New York](https://www.buffalo.edu) as a (tenured) Associate
+Professor.
 
 **I am looking for new undergraduate, Master's, and PhD students as well as postdocs. If you are
 interested, please email me. You can find my email address at the top of this page.**
