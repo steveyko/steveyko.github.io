@@ -40,9 +40,13 @@ at Buffalo, The State University of New York](https://www.buffalo.edu) as an Ass
 **I am looking for new undergraduate, Master's, and PhD students as well as postdocs. If you are
 interested, please email me. You can find my email address at the top of this page.**
 
-## Students
+## Students and Postdocs
 
-I have been fortunate to work with the following wonderful students.
+I have been fortunate to work with the following wonderful students and postdocs.
+
+**Postdoc**
+
+* [Fr&eacute;d&eacute;ric Tuong](https://ftuong.bitbucket.io)
 
 **PhD Students**
 
@@ -56,6 +60,7 @@ with Karthik Dantu.
 
 **MS Students**
 
+* Shishir Gopinath
 * Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 * Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
 * Varun Anand: Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
@@ -80,3 +85,9 @@ Dimitrios Koutsonikolas.
 * CAREER Award, NSF, 2014
 * Community Award Honorable Mention for “Serval: An End-Host Stack for Service-Centric Networking,”
   NSDI, 2012
+
+## Professional Activities
+
+* Recent TPC: MobiCom'22, MobiSys'22, INFOCOM'22, MobiSys'21, INFOCOM'21, SECON'20
+* Editor: ACM GetMobile Magazine, 2019-Present
+* General Co-Chair: MobiSys 2017
