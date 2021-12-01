@@ -55,7 +55,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 with Karthik Dantu.
 * Feng Shen: Graduated in 2018. Currently at Google. Co-advised with Lukasz Ziarek.
 * Taeyeon Ki: Graduated in 2018. Currently at Samsung Research America.
-* Yin Yan: Graduated in 2018. Currently at Chase Bank. Co-advised with Lukasz Ziarek.
+* Yin Yan: Graduated in 2018. Currently at Facebook. Co-advised with Lukasz Ziarek.
 * Kyungho Jeon: Graduate in 2017. Currently at Samsung Research Korea.
 
 **MS Students**
