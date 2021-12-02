@@ -10,6 +10,9 @@ nav: true
 
 ## Simon Fraser University
 
+* **CMPT 479/982 Special Topics in Computing Systems (Testing and Automated Verification for Rust Programs)**
+  [Fall 2021](https://cmpt-479-982.github.io)
+
 * **CMPT 473 Software Testing, Reliability, and Security**  
   [Spring 2021](https://canvas.sfu.ca/courses/60354)
 
