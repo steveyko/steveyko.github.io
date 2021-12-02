@@ -47,7 +47,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **Postdoc**
 
-* [Fr&eacute;d&eacute;ric Tuong](https://ftuong.bitbucket.io)
+* [Fr&eacute;d&eacute;ric Tuong](https://ftuong.bitbucket.io): Current postdoc.
 
 **PhD Students**
 
@@ -61,7 +61,7 @@ with Karthik Dantu.
 
 **MS Students**
 
-* Shishir Gopinath
+* Shishir Gopinath: Current student.
 * Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 * Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
 * Varun Anand: Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
