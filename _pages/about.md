@@ -87,8 +87,8 @@ Dimitrios Koutsonikolas.
 * Community Award Honorable Mention for “Serval: An End-Host Stack for Service-Centric Networking,”
   NSDI, 2012
 
-## Professional Activities
+## Selected Professional Activities
 
 * Recent TPC: MobiCom'22, MobiSys'22, INFOCOM'22, MobiSys'21, INFOCOM'21, SECON'20
 * Editor: ACM GetMobile Magazine, 2019-Present
-* General Co-Chair: MobiSys 2017
+* General Co-Chair: MobiSys'17
