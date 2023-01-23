@@ -51,6 +51,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **PhD Students**
 
+* Mohammad Omidvar Tehrani: Current student.
 * [Chang Min Park](https://changminpark.github.io): Current student. Co-advised with Karthik Dantu.
 * Sharath Chandrashekhara: Graduated in 2018. Currently at Samsung Research America. Co-advised
 with Karthik Dantu.
@@ -61,6 +62,8 @@ with Karthik Dantu.
 
 **MS Students**
 
+* Dhruv Kumar: Current student.
+* AmirMohammad Deilami: Current student.
 * Shishir Gopinath: Current student.
 * Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 * Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
