@@ -52,9 +52,10 @@ I have been fortunate to work with the following wonderful students and postdocs
 **PhD Students**
 
 * Mohammad Omidvar Tehrani: Current student.
-* [Chang Min Park](https://changminpark.github.io): Current student. Co-advised with Karthik Dantu.
-* Sharath Chandrashekhara: Graduated in 2018. Currently at Samsung Research America. Co-advised
-with Karthik Dantu.
+* [Chang Min Park](https://changminpark.github.io): Graduated in 2023. Currently at Yahoo!.
+  Co-advised with Karthik Dantu.
+* Sharath Chandrashekhara: Graduated in 2018. Currently at Samsung Research America. Co-advised with
+  Karthik Dantu.
 * Feng Shen: Graduated in 2018. Currently at Google. Co-advised with Lukasz Ziarek.
 * Taeyeon Ki: Graduated in 2018. Currently at Samsung Research America.
 * Yin Yan: Graduated in 2018. Currently at Facebook. Co-advised with Lukasz Ziarek.
