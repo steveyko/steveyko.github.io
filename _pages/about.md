@@ -3,9 +3,12 @@ layout: about
 title: about
 permalink: /
 description: >
-    <strong>Associate Professor & Dean's Excellence Fellow<br><a
-    href="https://www.sfu.ca/computing.html">School of Computing Science</a>, <a
-    href="https://www.sfu.ca/">Simon Fraser University</a></strong>
+    <strong>
+    Associate Professor & Dean's Excellence Fellow<br>
+    Associate Director of Research and Industrial Relations<br>
+    <a href="https://www.sfu.ca/computing.html">School of Computing Science</a>,
+    <a href="https://www.sfu.ca/">Simon Fraser University</a>
+    </strong>
 logo: sfu_logo.png
 
 profile:
