@@ -12,7 +12,7 @@ nav_order: 6
 ## Simon Fraser University
 
 * CMPT 201 Systems Programming
-  [Spring 2024](https://github.com/SFU-CMPT-201)
+  Spring 2024, [Fall 2024](https://github.com/SFU-CMPT-201)
 
 * CMPT 479/982 Special Topics in Computing Systems (Testing and Automated Verification for Rust Programs)
   [Fall 2021](https://cmpt-479-982.github.io)
