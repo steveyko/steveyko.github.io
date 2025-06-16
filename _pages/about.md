@@ -66,9 +66,11 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **MS Students**
 
+- Tarek Elsayed: Current student.
+- Soudabeh Mohammadhashemi: Current student.
 - Kimia Khabiri: Current student.
 - Parsa Hosseininejad: Current student.
-- Tan Khang Le: Current student.
+- Tan Khang Le: Graduated in 2025. Currently at Amazon.
 - Dhruv Kumar: Graduated in 2024. Currently at Amazon.
 - AmirMohammad Deilami: Graduated in 2023. First employment Auperatech.
 - Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
