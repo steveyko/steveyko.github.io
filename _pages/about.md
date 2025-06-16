@@ -99,7 +99,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 ## Selected Professional Activities
 
-- Recent TPC: ICDCS'24, MobiSys'24, INFOCOM'24, MobiSys'23, INFOCOM'23, MobiCom'22, MobiSys'22,
-  INFOCOM'22
+- Recent TPC: MobiCom'25, ICDCS'24, MobiSys'24, INFOCOM'24, MobiSys'23, INFOCOM'23, MobiCom'22,
+  MobiSys'22,
 - Editor: ACM GetMobile Magazine, 2019-Present
 - General Co-Chair: MobiSys'17
