@@ -39,7 +39,7 @@ nav_order: 6
 2016](https://piazza.com/buffalo/fall2016/cse622/home), Fall 2017, Fall 2018
 
 * CSE 199 UB Seminar: Internet, Computing, and Society
-  [Fall 2020](https://ublearns.blackboard.com/ultra/courses/_173524_1/cl/outline)
+  [Fall 2020]
 
 * CSE 199 UB Seminar: How the Internet Works
   Fall 2017, Fall 2018, [Fall 2019](http://www.cse.buffalo.edu/cse199)

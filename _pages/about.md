@@ -28,11 +28,10 @@ I generally work in the area of systems. My research currently focuses on improv
 and security of mobile systems by developing techniques at the intersection of mobile
 computing, programming languages, and software engineering.
 
-I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/math/index.do) from [Yonsei
-University](https://www.yonsei.ac.kr/en_sc/index.jsp), an MS in [Computer Science and
-Engineering](https://cse.snu.ac.kr/en) from [Seoul National
-University](https://en.snu.ac.kr/index.html), and a PhD in [Computer
-Science](https://cs.illinois.edu) from [University of Illinois at
+I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/) from [Yonsei
+University](https://www.yonsei.ac.kr/), an MS in [Computer Science and
+Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), and a
+PhD in [Computer Science](https://cs.illinois.edu) from [University of Illinois at
 Urbana-Champaign](https://illinois.edu). I worked as a postdoc in the [Department of Computer
 Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
@@ -50,7 +49,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **Postdoc**
 
-- [Fr&eacute;d&eacute;ric Tuong](https://ftuong.bitbucket.io): Current postdoc.
+- Fr&eacute;d&eacute;ric Tuong
 
 **PhD Students**
 
@@ -70,7 +69,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 - Kimia Khabiri: Current student.
 - Parsa Hosseininejad: Current student.
 - Tan Khang Le: Current student.
-- Dhruv Kumar: Current student.
+- Dhruv Kumar: Graduated in 2024. Currently at Amazon.
 - AmirMohammad Deilami: Graduated in 2023. First employment Auperatech.
 - Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 - Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
