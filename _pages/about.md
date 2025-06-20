@@ -49,7 +49,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **Postdoc**
 
-- Fr&eacute;d&eacute;ric Tuong
+- Fr&eacute;d&eacute;ric Tuong (2022-2024)
 
 **PhD Students**
 
