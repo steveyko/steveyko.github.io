@@ -62,7 +62,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 - Feng Shen: Graduated in 2018. Currently at Google. Co-advised with Lukasz Ziarek.
 - Taeyeon Ki: Graduated in 2018. Currently at Samsung Research America.
 - Yin Yan: Graduated in 2018. Currently at Facebook. Co-advised with Lukasz Ziarek.
-- Kyungho Jeon: Graduate in 2017. Currently at Samsung Research Korea.
+- [Kyungho Jeon](https://www.linkedin.com/in/kyungho-jeon/): Graduate in 2017. Currently at [GraphAI](https://graphai.io/en), ~~[Neubla](https://www.neubla.com)~~, ~~[Samsung Research](https://research.samsung.com/) [Korea](https://research.samsung.com/aicenter_seoul)~~.
 
 **MS Students**
 
