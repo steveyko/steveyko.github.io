@@ -12,7 +12,7 @@ subtitle: >
 logo: sfu_logo.png
 profile:
   align: right
-  image: steve_ko.webp
+  image: steve_ko.png
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
