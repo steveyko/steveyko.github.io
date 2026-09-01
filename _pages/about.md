@@ -4,8 +4,8 @@ title: About
 permalink: /
 subtitle: >
   <strong>
-  Associate Professor & Dean's Excellence Fellow<br>
-  Associate Director of Research and Industrial Relations<br>
+  Professor<br>
+  Associate Director, Admin<br>
   <a href="https://www.sfu.ca/computing.html">School of Computing Science</a>,
   <a href="https://www.sfu.ca/">Simon Fraser University</a>
   </strong>
@@ -66,10 +66,14 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **MS Students**
 
-- Tarek Elsayed: Current student.
-- Soudabeh Mohammadhashemi: Current student.
-- Kimia Khabiri: Current student.
-- Parsa Hosseininejad: Current student.
+- Tien Vo: Current student.
+- Toan Dao: Current student.
+- Nhan Nguyen Thien: Current student.
+- Le Hai Dang: Current student.
+- Soudabeh Mohammadhashemi: Graduated in 2026.
+- Tarek Elsayed: Graduated in 2026. Current at Amazon.
+- Parsa Hosseininejad: Graduated in 2026.
+- Kimia Khabiri: Graduated in 2025.
 - Tan Khang Le: Graduated in 2025. Currently at Amazon.
 - Dhruv Kumar: Graduated in 2024. Currently at Amazon.
 - AmirMohammad Deilami: Graduated in 2023. First employment Auperatech.
@@ -100,7 +104,7 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 ## Selected Professional Activities
 
-- Recent TPC: MobiCom'25, ICDCS'24, MobiSys'24, INFOCOM'24, MobiSys'23, INFOCOM'23, MobiCom'22,
-  MobiSys'22,
+- Recent TPC: MociCom'26, MobiCom'25, ICDCS'24, MobiSys'24, INFOCOM'24, MobiSys'23, INFOCOM'23,
+  MobiCom'22, MobiSys'22,
 - Editor: ACM GetMobile Magazine, 2019-Present
 - General Co-Chair: MobiSys'17
