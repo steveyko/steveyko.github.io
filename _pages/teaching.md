@@ -18,7 +18,7 @@ nav_order: 6
   Programs) [Fall 2021](https://cmpt-479-982.github.io)
 
 * CMPT 473 Software Testing, Reliability, and Security
-  [Spring 2021](https://canvas.sfu.ca/courses/60354)
+  Spring 2021
 
 ## University at Buffalo
 
