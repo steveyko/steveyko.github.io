@@ -30,8 +30,8 @@ computing, programming languages, and software engineering.
 
 I received a B.S. degree in [Mathematics](https://math.yonsei.ac.kr/) from [Yonsei
 University](https://www.yonsei.ac.kr/), an MS in [Computer Science and
-Engineering](https://cse.snu.ac.kr/) from [Seoul National University](https://www.snu.ac.kr/), and a
-PhD in [Computer Science](https://cs.illinois.edu) from [University of Illinois at
+Engineering](https://cse.snu.ac.kr/en) from [Seoul National University](https://www.snu.ac.kr/), and
+a PhD in [Computer Science](https://cs.illinois.edu) from [University of Illinois at
 Urbana-Champaign](https://illinois.edu). I worked as a postdoc in the [Department of Computer
 Science](https://www.cs.princeton.edu/) at [Princeton University](https://www.princeton.edu/).
 
