@@ -55,14 +55,21 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 - Mohammad Omidvar Tehrani: Current student.
 - Shishir Gopinath: Current student.
-- [Chang Min Park](https://changminpark.github.io): Graduated in 2023. Currently at Yahoo!.
+- [Chang Min Park](https://changminpark.github.io): Graduated in 2023. First employment at Yahoo!.
   Co-advised with Karthik Dantu.
-- Sharath Chandrashekhara: Graduated in 2018. Currently at Samsung Research America. Co-advised with
-  Karthik Dantu.
-- Feng Shen: Graduated in 2018. Currently at Google. Co-advised with Lukasz Ziarek.
-- Taeyeon Ki: Graduated in 2018. Currently at Samsung Research America.
-- Yin Yan: Graduated in 2018. Currently at Facebook. Co-advised with Lukasz Ziarek.
-- [Kyungho Jeon](https://www.linkedin.com/in/kyungho-jeon/): Graduate in 2017. Currently at [GraphAI](https://graphai.io/en), ~~[Neubla](https://www.neubla.com)~~, ~~[Samsung Research](https://research.samsung.com/) [Korea](https://research.samsung.com/aicenter_seoul)~~.
+- Sharath Chandrashekhara: Graduated in 2018. First employment at Samsung Research America.
+  Co-advised with Karthik Dantu.
+- Feng Shen: Graduated in 2018. First employment at Google. Co-advised with Lukasz Ziarek.
+- Taeyeon Ki: Graduated in 2018. First employment at Samsung Research America.
+- Yin Yan: Graduated in 2018. First employment at Facebook. Co-advised with Lukasz Ziarek.
+- Sharath Chandrashekhara: Graduated in 2018. First employment at Samsung Research America.
+  Co-advised with Karthik Dantu.
+- Feng Shen: Graduated in 2018. First employment at Google. Co-advised with Lukasz Ziarek.
+- Taeyeon Ki: Graduated in 2018. First employment at Samsung Research America.
+- Yin Yan: Graduated in 2018. First employment at Facebook. Co-advised with Lukasz Ziarek.
+- [Kyungho Jeon](https://www.linkedin.com/in/kyungho-jeon/): Graduated in 2017. Currently at
+  [GraphAI](https://graphai.io/en). First employment at [Samsung
+  Research](https://research.samsung.com/) [Korea](https://research.samsung.com/aicenter_seoul).
 
 **MS Students**
 
@@ -71,12 +78,12 @@ I have been fortunate to work with the following wonderful students and postdocs
 - Nhan Nguyen Thien: Current student.
 - Le Hai Dang: Current student.
 - Soudabeh Mohammadhashemi: Graduated in 2026.
-- Tarek Elsayed: Graduated in 2026. Current at Amazon.
+- Tarek Elsayed: Graduated in 2026. First employment at Amazon.
 - Parsa Hosseininejad: Graduated in 2026.
 - Kimia Khabiri: Graduated in 2025.
-- Tan Khang Le: Graduated in 2025. Currently at Amazon.
-- Dhruv Kumar: Graduated in 2024. Currently at Amazon.
-- AmirMohammad Deilami: Graduated in 2023. First employment Auperatech.
+- Tan Khang Le: Graduated in 2025. First employment at Amazon.
+- Dhruv Kumar: Graduated in 2024. First employment at Amazon.
+- AmirMohammad Deilami: Graduated in 2023. First employment at Auperatech.
 - Yash Upadhyay: Graduated in 2016. First employment at Microsoft. Co-advised with Karthik Dantu.
 - Pratik Lade: Graduated in 2016. First employment at FactSet. Co-advised with Karthik Dantu.
 - Varun Anand: Graduated in 2014. First employment at Akamai. Co-advised with Karthik Dantu and
