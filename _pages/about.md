@@ -62,11 +62,6 @@ I have been fortunate to work with the following wonderful students and postdocs
 - Feng Shen: Graduated in 2018. First employment at Google. Co-advised with Lukasz Ziarek.
 - Taeyeon Ki: Graduated in 2018. First employment at Samsung Research America.
 - Yin Yan: Graduated in 2018. First employment at Facebook. Co-advised with Lukasz Ziarek.
-- Sharath Chandrashekhara: Graduated in 2018. First employment at Samsung Research America.
-  Co-advised with Karthik Dantu.
-- Feng Shen: Graduated in 2018. First employment at Google. Co-advised with Lukasz Ziarek.
-- Taeyeon Ki: Graduated in 2018. First employment at Samsung Research America.
-- Yin Yan: Graduated in 2018. First employment at Facebook. Co-advised with Lukasz Ziarek.
 - [Kyungho Jeon](https://www.linkedin.com/in/kyungho-jeon/): Graduated in 2017. Currently at
   [GraphAI](https://graphai.io/en). First employment at [Samsung
   Research](https://research.samsung.com/) [Korea](https://research.samsung.com/aicenter_seoul).
