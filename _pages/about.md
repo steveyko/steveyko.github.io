@@ -74,8 +74,8 @@ I have been fortunate to work with the following wonderful students and postdocs
 - Le Hai Dang: Current student.
 - Soudabeh Mohammadhashemi: Graduated in 2026.
 - Tarek Elsayed: Graduated in 2026. First employment at Amazon.
-- Parsa Hosseininejad: Graduated in 2026.
-- Kimia Khabiri: Graduated in 2025.
+- Parsa Hosseininejad: Graduated in 2026. First employment at Huawei Canada.
+- Kimia Khabiri: Graduated in 2025. First employment at Leap Tools.
 - Tan Khang Le: Graduated in 2025. First employment at Amazon.
 - Dhruv Kumar: Graduated in 2024. First employment at Amazon.
 - AmirMohammad Deilami: Graduated in 2023. First employment at Auperatech.
