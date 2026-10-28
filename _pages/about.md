@@ -68,10 +68,13 @@ I have been fortunate to work with the following wonderful students and postdocs
 
 **MS Students**
 
+- Mohamed Khater: Current student.
 - Tien Vo: Current student.
 - Toan Dao: Current student.
-- Nhan Nguyen Thien: Current student.
+- Nhan Nguyen: Current student.
 - Le Hai Dang: Current student.
+- Mohamed Hefny: Current student.
+- Ava Mirmohammad Mehdi: Current student.
 - Soudabeh Mohammadhashemi: Graduated in 2026.
 - Tarek Elsayed: Graduated in 2026. First employment at Amazon.
 - Parsa Hosseininejad: Graduated in 2026. First employment at Huawei Canada.
